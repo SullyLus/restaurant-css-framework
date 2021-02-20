@@ -1,0 +1,32 @@
+body{
+    font-family: 'Fjalla One', sans-serif;
+}
+h1{
+    font-weight: bold;
+}
+header{
+    background-color: rgb(253, 164, 0);
+}
+
+
+header img{
+    height: 5rem;
+}
+.couleur{
+    background-color: rgb(255, 174, 24);
+}
+.coucou{
+    background-color: rgb(253, 164, 0);
+}
+.fa-beer{
+    color: rgb(253, 164, 0);
+}
+.fa-glass-martini-alt{
+    color: rgb(253, 164, 0); 
+}
+.test1{
+    background-color: red;
+}
+.cave{
+    background-image: url(./Img/cave.jpeg);
+}
